@@ -1,4 +1,4 @@
-#Reciplay
+# Reciplay
 This application has been built using the ReactJS framework and leverages the Spoonacular API to access data. With this app, users can easily filter through a variety of ingredients and cuisines to find the perfect recipe for their needs. Additionally, users can input the ingredients they currently have on hand and receive recipe suggestions for dishes they can prepare using those specific ingredients. Overall, this app is designed to make the recipe selection process simple, efficient, and personalized for every user.
 
 ## Getting Started with this application
